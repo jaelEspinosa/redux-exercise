@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Naranja ",
+      "precio": "300",
+      "id": 3
+    },
+    {
+      "nombre": "Jugo de Fresa 1 litro",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "bolsa cacao 1 KG",
+      "precio": 19,
+      "id": 6
+    },
+    {
+      "nombre": "Brick de leche 1 L",
+      "precio": "80",
+      "id": 7
+    },
+    {
+      "nombre": "Leche de cabra 1L",
+      "precio": 2,
+      "id": 8
+    }
+  ]
+}
